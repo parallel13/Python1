@@ -43,4 +43,4 @@ for i in word:
         count= count+8
     if str(i) in tenPoint:
         count= count+10
-print(count)
+print(f' вы набрали {count} очков)
